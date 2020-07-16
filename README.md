@@ -1,2 +1,2 @@
-# AppChat
+# ChatYusApp
 Created with CodeSandbox

@@ -1,0 +1,42 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "date-fns": "2.14.0",
+    "firebase": "7.16.0",
+    "istanbul-lib-coverage": "3.0.0",
+    "lodash": "4.17.19",
+    "notistack": "0.9.17",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-dropzone": "11.0.2",
+    "react-firebase-hooks": "2.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.0.1",
+    "react-scroll": "1.8.0",
+    "validator": "13.1.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
